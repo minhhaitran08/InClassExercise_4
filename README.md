@@ -1,2 +1,6 @@
 # InClassExercise_4
-This repo contains code to randomly generate 6 lucky number
+
+This is a LotoNumber_generator written in Python
+
+This program will receive number of list (draws) that users want to create and generate lists that contain randomized numbers accordingly
+The generated list will not have dupplicate numbers in the current draw or the latest draw
